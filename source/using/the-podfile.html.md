@@ -100,6 +100,7 @@ For more information, regarding versioning policy, see:
 
 * [Semantic Versioning](http://semver.org)
 * [RubyGems Versioning Policies](http://guides.rubygems.org/patterns/#semantic-versioning)
+* There's a great video from Google about how this works: ["CocoaPods and the Case of the Squiggly Arrow (Route 85)"](https://www.youtube.com/watch?v=x4ARXyovvPc).
 
 ## Version Conflicts
 
